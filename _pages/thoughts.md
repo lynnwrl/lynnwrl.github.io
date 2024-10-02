@@ -1,7 +1,7 @@
 ---
 layout: archive  # 这是指定布局文件，通常是 default 或 archive，控制页面的整体外观和结构。
 title: "Thoughts"  # 这是页面的标题，会显示在页面的顶部和浏览器标签中。
-permalink: /Thoughts/  # 这是页面的 URL 路径，访问这个页面时的网址会是 http://your-site/Thoughts/
+permalink: /thoughts/  # 这是页面的 URL 路径，访问这个页面时的网址会是 http://your-site/Thoughts/
 ---
 
 
