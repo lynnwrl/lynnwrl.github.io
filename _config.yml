@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jordan Satler"
+title                    : "Ruolin WU 吴 若琳"
 title_separator          : "-"
-name                     : &name "Jordan Satler"
-description              : &description "Postdoctoral Researcher"
-url                      : https://jordansatler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruolin WU 吴 若琳"
+description              : &description "PhD student of Palaeobiology"
+url                      : https://lynnwrl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jordansatler.github.io"
+repository               : "lynnwrl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "lynninprecam"
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jordan Satler"
+  name             : "Ruolin WU 吴 若琳"
   avatar           : "profile_pic.jpg"
-  bio              : "Postdoctoral Researcher"
-  location         : "Columbus, Ohio"
-  employer         : "The Ohio State University"
+  bio              : "PhD student of Palaeobiology"
+  location         : "Bristol, UK"
+  employer         : "University of Bristol"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ktn4eG8AAAAJ&hl=en&oi=ao"
-  email            : "jordansatler@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=Iq3BXCUAAAAJ&hl=en"
+  email            : "ruolin.wu@bristol.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Ruolin-Wu-2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "/photos/124023731@N07/"
+  flickr           : 
   facebook         :
   foursquare       :
-  github           : "jordansatler"
+  github           : "lynnwrl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0156-2147"
+  linkedin         : "https://www.linkedin.com/in/ruolin-wu/"
+  orcid            : "https://orcid.org/0000-0002-6782-873X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@lynninprecam"
   vine             :
   weibo            :
   xing             :
