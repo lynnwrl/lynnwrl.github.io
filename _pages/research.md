@@ -45,4 +45,4 @@ I am currently a final year PhD student, and actively looking for available posi
 
 I would like to expand my interest into genomic data science, maybe genomic basis of the key evolutionary events (for instance, multicellularization, terrestialisation of animal, etc)? I also still have strong passion working on phylogenetic model and method, and maybe dive deeper in the under theory from the analytical, statistical, sand model constructing perspective? Those are all possibilities and such amazing areas that I really want to try.
 
-So if you have any idea, potential position recommendation, or any related information, please kindly contact me! I am happy to equip more skills in the meanwhile and looing forward to any chance that shows up!
+So if you have any idea, potential position recommendation, or any related information, please kindly contact me! I am happy to equip more skills in the meanwhile and looking forward to any chance that shows up!
