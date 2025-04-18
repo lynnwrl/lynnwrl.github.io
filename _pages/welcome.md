@@ -26,10 +26,10 @@ Currently, I'm working on:
 </p>
 
 <div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left;">
-    <li>🧬 Assessing model adequacy in morphology and molecules via simulations</li>
-    <li>🪨 Integrating fossils and Bayesian methods for clock calibration</li>
-    <li>🧫 Testing phylogenetic hypotheses using Bayes factors and topology-based statistical methods</li>
+  <ul style="display: inline-block; text-align: center;">
+    <p>🧬 Assessing model adequacy in morphology and molecules via simulations 🧬</p>
+    <p>⏰ Integrating fossils and Bayesian methods for clock calibration ⏰</p>
+    <p>🧮 Testing phylogenetic hypotheses using statistical methods 🧮</p>
   </ul>
 </div>
 
