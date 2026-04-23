@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+
+6\. **Wu R**, Álvarez-Carretero S, Tong Y, Wan S, Schneider H, Clark J, Pisani D, Silvestro D, Donoghue PCJ. 2026. Integrated analysis of fossils and molecular divergence time estimation infers a latest Jurassic origin of angiosperms. *Nature Plants*. (in press)
+
 <!-- <span style="font-size: 22px; color: dark red;">**2024**</span> -->
 
 5\. Sun H, Zhao F, **Wu R**, Zeng H, Sun Z. 2024. Spatiotemporal distribution and morphological diversity of the Cambrian Wiwaxia: New insights from South China. *Global and Planetary Change*, 239(2024). [PDF](/assets/downloads/Sun et al. 2024, GPC.pdf)

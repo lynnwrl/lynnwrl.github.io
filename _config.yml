@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruolin WU 吴 若琳"
 title_separator          : "-"
 name                     : &name "Ruolin WU 吴 若琳"
-description              : &description "PhD student of Palaeobiology"
+description              : &description "Computational biologist"
 url                      : https://lynnwrl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lynnwrl.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruolin WU 吴 若琳"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD student of Palaeobiology"
-  location         : "Bristol, UK"
-  employer         : "University of Bristol"
+  bio              : "Computational biologist"
+  location         : "Guildford, UK"
+  employer         : "University of Surrey"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=Iq3BXCUAAAAJ&hl=en"
-  email            : "ruolin.wu@bristol.ac.uk"
+  email            : "ruolin.wu@surrey.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Ruolin-Wu-2"
   uri              :
   bitbucket        :

@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Decoding deep time through fossils and codes"
+title: "Decoding evolution across timescales"
 
 header:
   overlay_image: GPT.png  # 你的顶部背景图路径
@@ -17,8 +17,8 @@ author_profile: false
 <p><strong>I am Ruolin. Welcome to my website. </strong></p>
 
 <p>
-I'm a palaeobiologist interested in uncovering the deep-time history of life on Earth.  
-I work with fossils, molecular clocks, and phylogenetic methods to piece together how evolutionary and divergence events occur.
+I'm a computational biologist interested in uncovering the evolutionary history of life on Earth.  
+I work with human cancer and fossils, molecular clocks, and phylogenetic methods to piece together how evolutionary and divergence events occur.
 </p>
 
 <p>
@@ -27,8 +27,9 @@ Currently, I'm working on:
 
 <div style="text-align: center;">
   <ul style="display: inline-block; text-align: center;">
+    <p>💻 Developing method to reconstruct cancer evolutionary history from genomic data 💻</p>
     <p>🧬 Assessing model adequacy in morphology and molecules via simulations 🧬</p>
-    <p>⏰ Integrating fossils and Bayesian methods for clock calibration ⏰</p>
+    <p>⏰ Integrating calibrations and Bayesian methods for clock calibration ⏰</p>
     <p>🧮 Testing phylogenetic hypotheses using statistical methods 🧮</p>
   </ul>
 </div>
